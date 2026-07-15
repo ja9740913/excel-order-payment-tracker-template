@@ -1,0 +1,6 @@
+32ec51d62675d087b5b557342b84b3706fdac4a173dbdc1673b99f198aa1aff5  release/Payment-Risk-Check-Lite-v1.0.0.zip
+6ef11ef63144f5a00879ab9bfb3ee6dbfbdd330d2a8ac163f81595d8d3b6925a  workbooks/01-payment-risk-check-lite-blank.xlsx
+983d1154105ca3cbaa890e79eec3e76a7d1d12fe0f97a405a59fd29f4cc2ba05  workbooks/02-payment-risk-check-lite-demo.xlsx
+24790c20bd7c1a10168731c651ebe43982e71adb99c22fd04409a3d96821a2b7  assets/cover-1280x720.png
+6354a5fd63a53610083aa4c6575a7409c921ce15e1dfbdc9e61b949866776b7e  assets/feature-checks-1280x720.png
+988eb55f748ea066b2f7f59db6262a9254d360cda41d178e0beee856f64c7f5e  assets/thumbnail-600x600.png

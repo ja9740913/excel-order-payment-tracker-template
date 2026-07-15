@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "product": {
+    "name": "Payment Risk Check Lite",
+    "version": "1.0.0",
+    "language": "English",
+    "release_date": "2026-07-14",
+    "publication_status": "prepared-local-only"
+  },
+  "links": {
+    "free_sites_tool_url": "https://payment-flow-studio-tw.masstech.chatgpt.site/en/free?source=github_lite_readme",
+    "paid_sites_product_url": "https://payment-flow-studio-tw.masstech.chatgpt.site/en/templates/payment-tracker-excel-template?source=github_lite_paid",
+    "paid_checkout_url": "https://toolcraftstudio.gumroad.com/l/order-payment-dashboard-excel"
+  },
+  "free_scope": {
+    "row_limit": 100,
+    "kpi_count": 5,
+    "macro_free": true,
+    "excel_primary": true,
+    "google_sheets_verified": false,
+    "demo_data_fictional": true,
+    "asks_for_phone_number": false,
+    "asks_for_email_address": false,
+    "uploads_spreadsheet": false,
+    "external_data_connections": false
+  },
+  "external_state": {
+    "remote_repository_created": false,
+    "remote_repository_url": null,
+    "github_release_created": false,
+    "github_release_url": null,
+    "release_asset_url": null,
+    "files_uploaded": false,
+    "published_at": null,
+    "external_write_performed_by_preparation": false
+  },
+  "integrity": {
+    "algorithm": "SHA-256",
+    "checksum_file": "SHA256SUMS.txt",
+    "source_verification": "verified-lite-v1.0.0"
+  },
+  "assets": [
+    {
+      "path": "release/Payment-Risk-Check-Lite-v1.0.0.zip",
+      "role": "complete-free-release",
+      "public": true,
+      "sha256": "32ec51d62675d087b5b557342b84b3706fdac4a173dbdc1673b99f198aa1aff5"
+    },
+    {
+      "path": "workbooks/01-payment-risk-check-lite-blank.xlsx",
+      "role": "blank-workbook",
+      "public": true,
+      "sha256": "6ef11ef63144f5a00879ab9bfb3ee6dbfbdd330d2a8ac163f81595d8d3b6925a"
+    },
+    {
+      "path": "workbooks/02-payment-risk-check-lite-demo.xlsx",
+      "role": "fictional-demo-workbook",
+      "public": true,
+      "sha256": "983d1154105ca3cbaa890e79eec3e76a7d1d12fe0f97a405a59fd29f4cc2ba05"
+    },
+    {
+      "path": "assets/cover-1280x720.png",
+      "role": "cover-image",
+      "public": true,
+      "width": 1280,
+      "height": 720,
+      "sha256": "24790c20bd7c1a10168731c651ebe43982e71adb99c22fd04409a3d96821a2b7"
+    },
+    {
+      "path": "assets/feature-checks-1280x720.png",
+      "role": "feature-image",
+      "public": true,
+      "width": 1280,
+      "height": 720,
+      "sha256": "6354a5fd63a53610083aa4c6575a7409c921ce15e1dfbdc9e61b949866776b7e"
+    },
+    {
+      "path": "assets/thumbnail-600x600.png",
+      "role": "thumbnail-image",
+      "public": true,
+      "width": 600,
+      "height": 600,
+      "sha256": "988eb55f748ea066b2f7f59db6262a9254d360cda41d178e0beee856f64c7f5e"
+    }
+  ],
+  "excluded_content": [
+    "paid-edition ZIP files",
+    "commercial-edition source files",
+    "credentials, passwords, tokens, or one-time codes",
+    "purchase or receipt records",
+    "private customer or operational data",
+    "internal planning, authorization, or revenue-tracking documents"
+  ]
+}
