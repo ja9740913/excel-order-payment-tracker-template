@@ -4,7 +4,7 @@ Payment Risk Check Lite is a free, macro-free Excel order and payment tracker te
 
 [Use the free browser checker](https://payment-flow-studio-tw.masstech.chatgpt.site/en/free?source=github_lite_readme) · [Compare the free and paid 500-row editions](https://payment-flow-studio-tw.masstech.chatgpt.site/en/templates/payment-tracker-excel-template?source=github_lite_paid) · [Open the direct Gumroad checkout](https://toolcraftstudio.gumroad.com/l/order-payment-dashboard-excel)
 
-> Publication status: this package was prepared locally for a future GitHub repository. No remote repository or GitHub release has been created, and nothing in this folder has been uploaded by the preparation process.
+> Publication status: published at https://github.com/ja9740913/excel-order-payment-tracker-template. The verified v1.0.0 release is available at https://github.com/ja9740913/excel-order-payment-tracker-template/releases/tag/v1.0.0.
 
 ## Download the free files
 
