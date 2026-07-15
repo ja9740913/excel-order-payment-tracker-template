@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "language": "English",
     "release_date": "2026-07-14",
-    "publication_status": "prepared-local-only"
+    "publication_status": "published"
   },
   "links": {
     "free_sites_tool_url": "https://payment-flow-studio-tw.masstech.chatgpt.site/en/free?source=github_lite_readme",
@@ -25,13 +25,13 @@
     "external_data_connections": false
   },
   "external_state": {
-    "remote_repository_created": false,
-    "remote_repository_url": null,
-    "github_release_created": false,
-    "github_release_url": null,
-    "release_asset_url": null,
-    "files_uploaded": false,
-    "published_at": null,
+    "remote_repository_created": true,
+    "remote_repository_url": "https://github.com/ja9740913/excel-order-payment-tracker-template",
+    "github_release_created": true,
+    "github_release_url": "https://github.com/ja9740913/excel-order-payment-tracker-template/releases/tag/v1.0.0",
+    "release_asset_url": "https://github.com/ja9740913/excel-order-payment-tracker-template/releases/download/v1.0.0/Payment-Risk-Check-Lite-v1.0.0.zip",
+    "files_uploaded": true,
+    "published_at": "2026-07-15T00:55:28Z",
     "external_write_performed_by_preparation": false
   },
   "integrity": {
