@@ -168,7 +168,7 @@ def extract_urls() -> set[str]:
     urls: set[str] = set()
     for relative in PUBLIC_TEXT_FILES:
         text = (ROOT / relative).read_text(encoding="utf-8")
-        urls.update(URL_RE.findall(text))
+        urls.update(match.rstrip(".,;:!?") for match in URL_RE.findall(text))
     return urls
 
 
