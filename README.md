@@ -1,4 +1,4 @@
-# Free Excel Order and Payment Tracker Template
+# Free Excel Order Tracker and Payment Tracker Template
 
 Payment Risk Check Lite is a free, macro-free Excel order and payment tracker template for reviewing order amounts, paid amounts, due dates, collection status, outstanding balances, and obvious data-quality issues in one local workbook.
 
@@ -44,7 +44,7 @@ This operational sample is not accounting, tax, legal, collection, invoicing, ba
 Python 3 is sufficient; the verifier uses only the standard library.
 
 ```powershell
-python -B .\verify_release.py
+python -B .\verify_release.py --state published
 ```
 
 The default verification checks:
@@ -60,7 +60,7 @@ The default verification checks:
 For a hash-only check without network access:
 
 ```powershell
-python -B .\verify_release.py --offline
+python -B .\verify_release.py --state published --offline
 ```
 
 The verifier can validate this folder and its declared publication state; it cannot prove that no unrelated third party has copied the files elsewhere.
